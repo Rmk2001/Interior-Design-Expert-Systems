@@ -6,6 +6,10 @@ personality and certain inputs that are requested
 from the user .. This helps the user to limit his
 ideas faster and avoid confusion . . .
 
+
+
 Resources :
 ▪ https://medium.com/analytics-vidhya/learn-prolog-language-by-creating-anexpert-system-d46a811c58e8
+
+
 ▪ https://colorhunt.co/palettes/pastel
