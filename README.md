@@ -15,3 +15,9 @@ ideas faster and avoid confusion . . .
 
 
 ▪ https://colorhunt.co/palettes/pastel
+
+
+*Possible Output
+
+
+![output1](output1.png)
