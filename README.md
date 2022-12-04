@@ -8,7 +8,9 @@ ideas faster and avoid confusion . . .
 
 
 
-Resources :
+#Resources :
+
+
 ▪ https://medium.com/analytics-vidhya/learn-prolog-language-by-creating-anexpert-system-d46a811c58e8
 
 
